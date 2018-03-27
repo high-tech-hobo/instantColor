@@ -1,2 +1,2 @@
 # instantColor
-A fully (mostly) automated Instagram trand and posting system.
+A fully (mostly) automated Instagram trend and posting system.
